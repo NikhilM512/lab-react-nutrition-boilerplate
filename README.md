@@ -3,7 +3,7 @@
 
 # Kalvium Lab | REACT - Pro Nutrition
 
-## Learning Goals
+## Learning Goals:
 
 In this exercise, the goal is to apply as many as possible of the concepts you've just learned:
 
